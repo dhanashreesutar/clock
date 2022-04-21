@@ -6,6 +6,8 @@ let hh=str.slice(0,2);
   parseInt(hh);
   parseInt(mm);
 
+
+
   
 if(str.includes('AM')){
   console.log(hh +":"+ mm+":"+ss);
@@ -31,5 +33,6 @@ if(str.includes('PM')){
   let time1= hh+":"+mm+":"+ss;
   console.log(time1);
 }
+console.log('this is second change')
 
 
