@@ -33,6 +33,5 @@ if(str.includes('PM')){
   let time1= hh+":"+mm+":"+ss;
   console.log(time1);
 }
-console.log('this is second change')
 
 
